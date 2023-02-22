@@ -2,7 +2,7 @@
 - 👀 I’m interested in System Software Development.
 - 🌱 I’m currently learning python 🐍 language and Spring Security.
 - 💞️ I’m looking to collaborate on bitbucket | Github and e.t.c.
-- 📫 How to reach me on 📧motenejo@gmail.com and ☎️ +27 793530741.
+- 📫 How to reach me : 📧motenejo@gmail.com and ☎️ +27 793530741.
 
 <!---
 MoteneJan/MoteneJan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
