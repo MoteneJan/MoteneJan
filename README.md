@@ -12,14 +12,14 @@
     Innovative Software Developer and Data Scientist whose passionate for creating innovative solutions and exploring technology.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20to%20Development-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/-Software%20Development-green?style=for-the-badge&logo=Code&animation=slide" alt="Software Development"/>
   <img src="https://img.shields.io/badge/-Data%20Science-ff69b4?style=for-the-badge&logo=Code&animation=slide" alt="Data Science"/>
   <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
 </p>
 
 <div align="center">
 
-| **My**       | **ToolBox**                                                                                                      |
+|        | **ToolBox**                                                                                                      |
 |-----------------|-----------------------------------------------------------------------------------------------------------|
 | IDE             | <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode"/>                                                     |
 | App Development  | <img src="https://skillicons.dev/icons?i=java,cs,net,cpp"/>                                |
