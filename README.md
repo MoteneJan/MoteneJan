@@ -2,12 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World+🫶;I'm+JAN+MOTENE✨;+Software+Developer💻;+Data+Scientist💻;from+South+Africa+💖;&color=green" />
 </h1>
 
+<!--
 <p align="center">
     <img alt="Coding" width="1000" src="Profile.png">
 </p>
+-->
 
 <p align="center">
-    I'm a software engineer whose passionate for creating innovative solutions and exploring technology.
+    Innovative Software Developer and Data Scientist whose passionate for creating innovative solutions and exploring technology.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20to%20Development-green?style=for-the-badge&logo=Handshake&animation=shake" alt="Software Development"/>
@@ -34,7 +36,7 @@ A fun fact about me is that I enjoy working on some really innovative projects, 
 ## 👩🏻‍💻 Favorite Quote:
 "Strive not to be a success, but rather to be of value." – Albert Einstein
 
-This quote resonates deeply with me as I navigate the world of software engineering, Data Science and technology.
+This quote resonates deeply with me as I navigate the world of Software Engineering, Data Science and Technology.
 
 ## 📫 Let's Connect🚀:
 I’m always open for collaborations and discussions. Feel free to reach out, Looking forward to connecting with you!
@@ -44,13 +46,11 @@ I’m always open for collaborations and discussions. Feel free to reach out, Lo
     </a>
    
 </p>
-
+<!--
 <p align="center">
   <img src="https://64.media.tumblr.com/197110a10042ab07954e00a50aa070ae/tumblr_pvsao76xg51wnhmglo4_540.gif" alt="Coding">
 </p>
-
-
-
+-->
 
 <!--
 **MoteneJan/MoteneJan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
