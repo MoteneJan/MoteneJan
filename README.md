@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Software%20Development-green?style=for-the-badge&logo=Code&animation=slide" alt="Software Development"/>
   <img src="https://img.shields.io/badge/-Data%20Science-ff69b4?style=for-the-badge&logo=Code&animation=slide" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/-Always%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=Book&animation=flash" alt="Always Learning"/>
 </p>
 
 <div align="center">
